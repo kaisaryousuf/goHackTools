@@ -1,57 +1,80 @@
 # github.com/Wessie/appdirs v0.0.0-20141031215813-6573e894f8e2
+## explicit
 github.com/Wessie/appdirs
 # github.com/alexmullins/zip v0.0.0-20180717182244-4affb64b04d0
+## explicit
 github.com/alexmullins/zip
 # github.com/amoghe/go-crypt v0.0.0-20191109212615-b2ff80594b7f
+## explicit
 github.com/amoghe/go-crypt
 # github.com/briandowns/spinner v1.8.0
+## explicit
 github.com/briandowns/spinner
 # github.com/fatih/color v1.7.0
+## explicit
 github.com/fatih/color
 # github.com/flopp/go-coordsparser v0.0.0-20160810104536-845bca739e26
+## explicit
 github.com/flopp/go-coordsparser
 # github.com/flopp/go-staticmaps v0.0.0-20190722115053-456a5d548ba1
+## explicit
 github.com/flopp/go-staticmaps
 # github.com/fogleman/gg v1.3.0
+## explicit
 github.com/fogleman/gg
 # github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0
+## explicit
 github.com/golang/freetype/raster
 github.com/golang/freetype/truetype
 # github.com/golang/geo v0.0.0-20190916061304-5b978397cfec
+## explicit; go 1.12
 github.com/golang/geo/r1
 github.com/golang/geo/r2
 github.com/golang/geo/r3
 github.com/golang/geo/s1
 github.com/golang/geo/s2
 # github.com/google/gopacket v1.1.17
+## explicit; go 1.12
 github.com/google/gopacket
 github.com/google/gopacket/layers
 github.com/google/gopacket/pcap
 # github.com/jackdanger/collectlinks v0.0.0-20160421202702-24c4ee2870ba
+## explicit
 github.com/jackdanger/collectlinks
 # github.com/jessevdk/go-flags v1.4.0
+## explicit
 github.com/jessevdk/go-flags
 # github.com/mattn/go-colorable v0.1.2
+## explicit
 github.com/mattn/go-colorable
 # github.com/mattn/go-isatty v0.0.8
+## explicit
 github.com/mattn/go-isatty
 # github.com/mattn/go-sqlite3 v2.0.3+incompatible
+## explicit
 github.com/mattn/go-sqlite3
 # github.com/miekg/dns v1.1.27
+## explicit; go 1.12
 github.com/miekg/dns
 # github.com/oschwald/geoip2-golang v1.4.0
+## explicit; go 1.9
 github.com/oschwald/geoip2-golang
 # github.com/oschwald/maxminddb-golang v1.6.0
+## explicit; go 1.9
 github.com/oschwald/maxminddb-golang
 # github.com/rwcarlsen/goexif v0.0.0-20190401172101-9e8deecbddbd
+## explicit
 github.com/rwcarlsen/goexif/exif
 github.com/rwcarlsen/goexif/tiff
 # github.com/shavac/gexpect v0.0.0-20180514151559-ecdc92667239
+## explicit
 github.com/shavac/gexpect
 github.com/shavac/gexpect/pty
 # github.com/tkrajina/gpxgo v1.0.1
+## explicit
 github.com/tkrajina/gpxgo/gpx
-# golang.org/x/crypto v0.35.0
+# golang.org/x/crypto v0.45.0
+## explicit; go 1.24.0
 golang.org/x/crypto/blowfish
 golang.org/x/crypto/chacha20
 golang.org/x/crypto/curve25519
@@ -63,12 +86,14 @@ golang.org/x/crypto/ssh
 golang.org/x/crypto/ssh/agent
 golang.org/x/crypto/ssh/internal/bcrypt_pbkdf
 # golang.org/x/image v0.18.0
+## explicit; go 1.18
 golang.org/x/image/draw
 golang.org/x/image/font
 golang.org/x/image/font/basicfont
 golang.org/x/image/math/f64
 golang.org/x/image/math/fixed
-# golang.org/x/net v0.25.0
+# golang.org/x/net v0.47.0
+## explicit; go 1.24.0
 golang.org/x/net/bpf
 golang.org/x/net/html
 golang.org/x/net/html/atom
@@ -76,11 +101,17 @@ golang.org/x/net/internal/iana
 golang.org/x/net/internal/socket
 golang.org/x/net/ipv4
 golang.org/x/net/ipv6
-# golang.org/x/sys v0.30.0
+# golang.org/x/sync v0.18.0
+## explicit; go 1.24.0
+# golang.org/x/sys v0.38.0
+## explicit; go 1.24.0
 golang.org/x/sys/cpu
 golang.org/x/sys/unix
 golang.org/x/sys/windows
 # rsc.io/pdf v0.1.1
+## explicit
 rsc.io/pdf
 # shodan v0.0.0-00010101000000-000000000000 => ./projects/57_shodanAPI/shodan
+## explicit; go 1.18
 shodan
+# shodan => ./projects/57_shodanAPI/shodan
