@@ -17,7 +17,7 @@ require (
 	github.com/oschwald/geoip2-golang v1.4.0
 	github.com/rwcarlsen/goexif v0.0.0-20190401172101-9e8deecbddbd
 	github.com/shavac/gexpect v0.0.0-20180514151559-ecdc92667239
-	golang.org/x/crypto v0.45.0
+	golang.org/x/crypto v0.51.0
 	rsc.io/pdf v0.1.1
 	shodan v0.0.0-00010101000000-000000000000
 )
@@ -32,9 +32,9 @@ require (
 	github.com/oschwald/maxminddb-golang v1.6.0 // indirect
 	github.com/tkrajina/gpxgo v1.0.1 // indirect
 	golang.org/x/image v0.38.0 // indirect
-	golang.org/x/net v0.47.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
 	golang.org/x/sync v0.18.0 // indirect
-	golang.org/x/sys v0.38.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
 )
 
 replace shodan => ./projects/57_shodanAPI/shodan
