@@ -17,7 +17,7 @@ require (
 	github.com/oschwald/geoip2-golang v1.4.0
 	github.com/rwcarlsen/goexif v0.0.0-20190401172101-9e8deecbddbd
 	github.com/shavac/gexpect v0.0.0-20180514151559-ecdc92667239
-	golang.org/x/crypto v0.51.0
+	golang.org/x/crypto v0.52.0
 	rsc.io/pdf v0.1.1
 	shodan v0.0.0-00010101000000-000000000000
 )

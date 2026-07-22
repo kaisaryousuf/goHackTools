@@ -73,7 +73,7 @@ github.com/shavac/gexpect/pty
 # github.com/tkrajina/gpxgo v1.0.1
 ## explicit
 github.com/tkrajina/gpxgo/gpx
-# golang.org/x/crypto v0.51.0
+# golang.org/x/crypto v0.52.0
 ## explicit; go 1.25.0
 golang.org/x/crypto/blowfish
 golang.org/x/crypto/chacha20
