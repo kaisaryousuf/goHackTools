@@ -32,7 +32,7 @@ require (
 	github.com/oschwald/maxminddb-golang v1.6.0 // indirect
 	github.com/tkrajina/gpxgo v1.0.1 // indirect
 	golang.org/x/image v0.41.0 // indirect
-	golang.org/x/net v0.54.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
 	golang.org/x/sync v0.18.0 // indirect
 	golang.org/x/sys v0.45.0 // indirect
 )
